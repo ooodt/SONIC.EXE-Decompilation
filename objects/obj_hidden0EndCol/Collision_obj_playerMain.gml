@@ -10,4 +10,4 @@ with (obj_playerMain)
 action_sound(25, 0);
 createStatic(120);
 action_set_alarm(120, 0);
-audio_stop_music();
+audio_stop_sound(sns_bgmHidden0);

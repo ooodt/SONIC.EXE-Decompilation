@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_flesh",
-  "duration": 0.0,
+  "duration": 4.763401,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

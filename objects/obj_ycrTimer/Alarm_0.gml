@@ -1,32 +1,35 @@
-action_set_relative(1);
+// GameMaker Language Preview (Read-Only)
 
-with (obj_sonicSmokeRight)
-    action_kill_object();
+// Destroy Instance
+with(obj_sonicSmokeRight) instance_destroy();
 
-with (obj_sonicSmokeLeft)
-    action_kill_object();
+// Destroy Instance
+with(obj_sonicSmokeLeft) instance_destroy();
 
-audio_stop_music();
-action_sound(30, 0);
-action_end_sound(7);
+// Play Audio
+audio_play_sound(snd_knuxCry, 0, 0, 1.0, undefined, 1.0);
 
-with (obj_playerMain)
-    action_kill_object();
+// Stop Audio
+audio_stop_sound(snd_bgm_mindfuckery);
 
-with (obj_knuxSpriteMask)
-    action_create_object(obj_knuxCry, 0, 15);
+// Destroy Instance
+with(obj_playerMain) instance_destroy();
 
-with (obj_knuxCry)
-    action_create_object(obj_sonicSmirk1, -48, -16);
+// Create Instance
+with(obj_knuxSpriteMask) {
+	instance_create_layer(x + 0, y + +15, "Compatibility_Instances_Depth_1", obj_knuxCry); 
+}
 
-with (obj_knuxSpriteMask)
-    action_kill_object();
+// Create Instance
+with(obj_knuxCry) {
+	instance_create_layer(x + -48, y + -16, "Compatibility_Instances_Depth_1", obj_sonicSmirk1); 
+}
 
-with (obj_knuxJumpMask)
-    action_kill_object();
+// Destroy Instance
+with(obj_knuxSpriteMask) instance_destroy();
 
-action_set_relative(0);
-action_set_alarm(1, 1);
-action_set_relative(1);
-action_set_relative(0);
+// Destroy Instance
+with(obj_knuxJumpMask) instance_destroy();
 
+// Set Alarm Countdown
+alarm_set(1, 1);

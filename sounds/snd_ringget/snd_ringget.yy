@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_ringget",
-  "duration": 0.0,
+  "duration": 1.435556,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

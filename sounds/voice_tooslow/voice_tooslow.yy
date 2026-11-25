@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_tooslow",
-  "duration": 0.0,
+  "duration": 5.85093,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_playwithme",
-  "duration": 0.0,
+  "duration": 6.220726,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

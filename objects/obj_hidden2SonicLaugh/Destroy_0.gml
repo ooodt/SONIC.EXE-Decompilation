@@ -1,4 +1,4 @@
-audio_stop_music();
+audio_stop_sound(snd_bgmHidden2);
 action_end_sound(13);
 action_sound(34, 0);
 createStatic(5);

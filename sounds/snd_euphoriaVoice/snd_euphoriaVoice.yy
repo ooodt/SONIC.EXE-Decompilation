@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_euphoriaVoice",
-  "duration": 0.0,
+  "duration": 17.008617,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

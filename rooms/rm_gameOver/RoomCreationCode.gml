@@ -1,1 +1,1 @@
-audio_play_music(9, 1);
+action_sound(9, 1);

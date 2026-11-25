@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_diehands",
-  "duration": 0.0,
+  "duration": 3.828118,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

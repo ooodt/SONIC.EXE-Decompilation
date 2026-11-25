@@ -1,3 +1,6 @@
+with (obj_hidden2PaletteHandler)
+    action_kill_object();
+
 with (obj_robotnikSpriteMask)
     action_kill_object();
 

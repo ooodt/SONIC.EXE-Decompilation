@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_eatheart",
-  "duration": 0.0,
+  "duration": 3.588866,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

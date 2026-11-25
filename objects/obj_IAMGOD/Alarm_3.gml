@@ -1,4 +1,4 @@
-action_sound(24, 1);
+action_sound(24, 0);
 createStatic(440);
 
 with (obj_IAMGODText)

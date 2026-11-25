@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_kefka",
-  "duration": 0.0,
+  "duration": 2.057778,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

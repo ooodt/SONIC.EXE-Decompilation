@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_knuxPunch",
-  "duration": 0.0,
+  "duration": 0.208345,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

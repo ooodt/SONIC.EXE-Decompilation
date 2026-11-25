@@ -4,7 +4,7 @@
   "name": "Main",
   "option_gameguid": "7272931f-7ed9-41c9-9a8a-928f0a13b670",
   "option_gameid": "176387032",
-  "option_game_speed": 30,
+  "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
   "option_draw_colour": 4294967295,
   "option_window_colour": 0,

@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_souls",
-  "duration": 0.0,
+  "duration": 9.053039,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

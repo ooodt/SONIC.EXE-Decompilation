@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_tailsDeath",
-  "duration": 0.0,
+  "duration": 5.601905,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

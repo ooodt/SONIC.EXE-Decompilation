@@ -1,5 +1,5 @@
 __background_set( e__BG.HSpeed, 0, 0 );
-audio_stop_music();
+audio_stop_sound(snd_bgmSelect);
 
 with (obj_selectCursor)
     action_sprite_set(77, 0, 0);

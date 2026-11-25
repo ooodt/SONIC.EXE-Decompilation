@@ -1,2 +1,2 @@
 global.character = "knux";
-audio_play_music(12, 1);
+action_sound(12, 1);

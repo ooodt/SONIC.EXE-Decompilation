@@ -1,2 +1,2 @@
 global.character = "tails";
-audio_play_music(3, 1);
+action_sound(3, 1);

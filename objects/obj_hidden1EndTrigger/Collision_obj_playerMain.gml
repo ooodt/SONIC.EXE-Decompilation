@@ -7,7 +7,7 @@ with (obj_knuxJumpMask)
 with (obj_playerMain)
     action_kill_object();
 
-audio_stop_music();
+audio_stop_sound(snd_bgmHidden1);
 audio_stop_sound(snd_euphoriaVoice);
 audio_play_sound(snd_yourenext, 10, false);
 action_end_sound(12);

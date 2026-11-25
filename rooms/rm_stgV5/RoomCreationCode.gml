@@ -1,5 +1,5 @@
 global.hudState = "v5";
-audio_play_music(0, 0);
+action_sound(snd_bgmV5,0);
 instance_create(0, 0, obj_v5ScreamTimer);
 instance_create(__view_get( e__VW.XView, 0 ), __view_get( e__VW.YView, 0 ), obj_staticTrans);
 

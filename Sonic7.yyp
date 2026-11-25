@@ -464,7 +464,6 @@
     {"id":{"name":"rm_hiddenEnter2","path":"rooms/rm_hiddenEnter2/rm_hiddenEnter2.yy",},"order":33,},
   ],
   "Options": [
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Android","path":"options/android/options_android.yy",},
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
     {"name":"iOS","path":"options/ios/options_ios.yy",},
@@ -473,6 +472,7 @@
     {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -541,9 +541,10 @@
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"tg_level_hill","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.0.1.31",
+    "IDEVersion": "2022.0.3.85",
   },
 }

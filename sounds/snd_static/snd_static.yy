@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_static",
-  "duration": 0.0,
+  "duration": 0.999773,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

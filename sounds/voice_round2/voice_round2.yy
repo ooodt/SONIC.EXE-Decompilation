@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_round2",
-  "duration": 0.0,
+  "duration": 8.689297,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

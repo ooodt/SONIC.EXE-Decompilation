@@ -1,5 +1,5 @@
 action_set_relative(0);
-audio_stop_music();
+audio_stop_all();
 action_end_sound(6);
 action_sound(20, 0);
 action_create_object(obj_sonicAppearKnuxAni, 14140, 153);

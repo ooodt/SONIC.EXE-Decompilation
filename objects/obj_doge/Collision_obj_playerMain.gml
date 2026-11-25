@@ -7,6 +7,6 @@ with (obj_tailsJumpMask)
 with (obj_playerMain)
     action_kill_object();
 
-audio_stop_music();
+audio_stop_sound(snd_bgmHill);
 createStatic(120);
 action_set_alarm(120, 0);

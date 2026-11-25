@@ -4,7 +4,7 @@ with (obj_robotnikSpriteMask)
 with (obj_playerMain)
     action_kill_object();
 
-audio_stop_music();
+audio_stop_all();
 action_end_sound(8);
 createStatic(120);
 action_set_alarm(120, 0);
