@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "voice_foundyou",
-  "duration": 0.0,
+  "duration": 3.132109,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgmHillEnd",
-  "duration": 0.0,
+  "duration": 0.991202,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

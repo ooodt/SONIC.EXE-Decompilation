@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_kefkaDemonic",
-  "duration": 0.0,
+  "duration": 2.089796,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
