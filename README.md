@@ -1,6 +1,6 @@
 This fork fixes the broken decomp from [SONIC.EXE-Decompilation](https://github.com/burnedpopcorn/SONIC.EXE-Decompilation)
 
-original repository readme:
+Original repository readme:
 
 # SONIC.EXE Decompilation
 A Decompilation of the Original SONIC.EXE Game
