@@ -1,5 +1,7 @@
 This fork fixes the broken decomp from [SONIC.EXE-Decompilation](https://github.com/burnedpopcorn/SONIC.EXE-Decompilation)
-orignal repository readme:
+
+original repository readme:
+
 # SONIC.EXE Decompilation
 A Decompilation of the Original SONIC.EXE Game
 > May God have mercy on my soul
